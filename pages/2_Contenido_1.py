@@ -37,10 +37,9 @@ mientras que la **domótica** y los **dispositivos inteligentes** mejoran la seg
 ---
 
 ### 🔗 Referencias
-- Gobierno del Estado de Guanajuato. *Agenda Digital GTO 2024*. Disponible en: [https://agendadigital.guanajuato.gob.mx](https://agendadigital.guanajuato.gob.mx)  
-- Universidad de Guanajuato. *Transformación digital educativa*. Disponible en: [https://www.ugto.mx](https://www.ugto.mx)  
-- INEGI (2024). *Uso de Tecnologías de la Información y Comunicación en los hogares mexicanos*. Disponible en: [https://www.inegi.org.mx](https://www.inegi.org.mx)  
-- Municipio de León. *Gobierno Digital y Trámites en Línea*. Disponible en: [https://leon.gob.mx](https://leon.gob.mx)
+- Gobierno del Estado de Guanajuato. *Agenda Digital GTO 2050*. Disponible en: [https://boletines.guanajuato.gob.mx/tag/agenda-digital-gto-2050/)  
+- Universidad de Guanajuato. *Sistema de información para la educación digital: percepción de usuarios en la Universidad de Guanajuato*. Disponible en: [https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-62662024000100104)  
+- INEGI (2024). *Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) 2024*. Disponible en: [https://www.inegi.org.mx/programas/endutih/2024/)  
 
 ---
 """)

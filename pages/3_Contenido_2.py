@@ -37,10 +37,9 @@ mejora la seguridad, la conectividad y el entretenimiento digital. Además, los 
 ---
 
 ### 🔗 Referencias
-- Gobierno de Jalisco. *Agenda Digital Jalisco 2024*. Disponible en: [https://agendadigital.jalisco.gob.mx](https://agendadigital.jalisco.gob.mx)  
-- Universidad de Guadalajara. *Transformación digital educativa*. Disponible en: [https://www.udg.mx](https://www.udg.mx)  
-- Clúster de Tecnologías de la Información de Jalisco (IJALTI). *Innovación y transformación digital en Guadalajara*. Disponible en: [https://ijalti.org.mx](https://ijalti.org.mx)  
-- INEGI (2024). *Uso de TIC en hogares y empresas en México*. Disponible en: [https://www.inegi.org.mx](https://www.inegi.org.mx)
+- Gobierno de Jalisco. *Innovación, ciencia y tecnología*. Disponible en: [https://plan.jalisco.gob.mx/3-6-innovacion-ciencia-y-tecnologia/](https://plan.jalisco.gob.mx/3-6-innovacion-ciencia-y-tecnologia/)  
+- Universidad de Guadalajara. *Fortalece UdeG su transformación digital con UDG Plusa*. Disponible en: [https://www.udg.mx/es/noticia/fortalece-udeg-su-transformacion-digital-con-udg-plus](https://www.udg.mx/es/noticia/fortalece-udeg-su-transformacion-digital-con-udg-plus)  
+- Informador. *Clúster de software y de tecnologías de información se reúnen*. Disponible en: [https://www.informador.mx/Economia/Cluster-de-software-y-de-tecnologias-de-informacion-se-reunen-20130625-0026.html](https://www.informador.mx/Economia/Cluster-de-software-y-de-tecnologias-de-informacion-se-reunen-20130625-0026.html)  
 
 ---
 """)

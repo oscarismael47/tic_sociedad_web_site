@@ -15,7 +15,7 @@ Hoy, las TIC son esenciales en todos los ámbitos:
 - 💼 **Laboral:** Incrementan la productividad y el trabajo colaborativo.  
 - 👨‍👩‍👧‍👦 **Familiar:** Facilitan la comunicación y la organización doméstica.  
 
-En este recorrido veremos cómo se aplican las TIC **en nuestra comunidad** y **en otras partes de mexico**, comprendiendo su papel en la **solución de problemas sociales y tecnológicos**.
+En este recorrido veremos cómo se aplican las TIC **en nuestra comunidad Leon Guanajuato** y **en otras partes de mexico**, comprendiendo su papel en la **solución de problemas sociales y tecnológicos**.
 """)
 
 st.video("https://www.youtube.com/watch?v=ngnPMQEk4ak")
